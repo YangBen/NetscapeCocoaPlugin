@@ -10,36 +10,31 @@
 	<string>NetscapeCocoaPlugin</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>268f45cc-cd09-0410-ab3c-d52691b4dbfc++7552</key>
-		<string>http://svn.webkit.org/repository/webkit/trunk/Examples</string>
+		<key>C1925DC915D917A44327DD5607564FE39F8D5C82</key>
+		<string>github.com:YangBen/NetscapeCocoaPlugin.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>NetscapeCocoaPlugin/NetscapeCocoaPlugin.xcodeproj</string>
+	<string>NetscapeCocoaPlugin.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>268f45cc-cd09-0410-ab3c-d52691b4dbfc++7552</key>
-		<string>../../..</string>
-	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>268f45cc-cd09-0410-ab3c-d52691b4dbfc++7552</key>
-		<string>http://svn.webkit.org/repository/webkit</string>
+		<key>C1925DC915D917A44327DD5607564FE39F8D5C82</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>http://svn.webkit.org/repository/webkit/trunk/Examples/NetscapeCocoaPlugin/NetscapeCocoaPlugin.xcodeproj</string>
+	<string>github.com:YangBen/NetscapeCocoaPlugin.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>268f45cc-cd09-0410-ab3c-d52691b4dbfc++7552</string>
+	<string>C1925DC915D917A44327DD5607564FE39F8D5C82</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>268f45cc-cd09-0410-ab3c-d52691b4dbfc++7552</string>
+			<string>C1925DC915D917A44327DD5607564FE39F8D5C82</string>
 			<key>IDESourceControlWCCName</key>
-			<string>NPAPIExamples</string>
+			<string>NetscapeCocoaPlugin</string>
 		</dict>
 	</array>
 </dict>
