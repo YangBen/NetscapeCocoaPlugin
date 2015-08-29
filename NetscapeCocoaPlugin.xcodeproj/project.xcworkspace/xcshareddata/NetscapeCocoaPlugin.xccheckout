@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>312B2BA2-486C-4CC5-AA0A-20BCDCB19C32</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NetscapeCocoaPlugin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>268f45cc-cd09-0410-ab3c-d52691b4dbfc++7552</key>
+		<string>http://svn.webkit.org/repository/webkit/trunk/Examples</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NetscapeCocoaPlugin/NetscapeCocoaPlugin.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>268f45cc-cd09-0410-ab3c-d52691b4dbfc++7552</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>268f45cc-cd09-0410-ab3c-d52691b4dbfc++7552</key>
+		<string>http://svn.webkit.org/repository/webkit</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://svn.webkit.org/repository/webkit/trunk/Examples/NetscapeCocoaPlugin/NetscapeCocoaPlugin.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>268f45cc-cd09-0410-ab3c-d52691b4dbfc++7552</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>268f45cc-cd09-0410-ab3c-d52691b4dbfc++7552</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NPAPIExamples</string>
+		</dict>
+	</array>
+</dict>
+</plist>
