@@ -11,6 +11,7 @@
 		1A6250420DCBC81B006898C8 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A6250410DCBC81B006898C8 /* Cocoa.framework */; };
 		1AAD6A090DD0DC52003985DA /* MenuHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AAD6A080DD0DC52003985DA /* MenuHandler.m */; };
 		8D5B49A804867FD3000E48DA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8D5B49A704867FD3000E48DA /* InfoPlist.strings */; };
+		DE9BE27A1B917B9000E6312E /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = DE9BE2791B917B9000E6312E /* README.md */; };
 		DEF08C001B9146190038422A /* ben.png in Resources */ = {isa = PBXBuildFile; fileRef = DEF08BFF1B9146190038422A /* ben.png */; };
 /* End PBXBuildFile section */
 
@@ -22,6 +23,7 @@
 		1AAD6A080DD0DC52003985DA /* MenuHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuHandler.m; sourceTree = "<group>"; };
 		8D576316048677EA00EA77CD /* NetscapeCocoaPlugin.plugin */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NetscapeCocoaPlugin.plugin; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D576317048677EA00EA77CD /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		DE9BE2791B917B9000E6312E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DEF08BFD1B913E6C0038422A /* test.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = test.html; sourceTree = "<group>"; };
 		DEF08BFF1B9146190038422A /* ben.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ben.png; sourceTree = "<group>"; };
 		DEF08C071B91797E0038422A /* preview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = preview.png; sourceTree = "<group>"; };
@@ -42,6 +44,7 @@
 		089C166AFE841209C02AAC07 /* NetscapeCocoaPlugin */ = {
 			isa = PBXGroup;
 			children = (
+				DE9BE2791B917B9000E6312E /* README.md */,
 				DEF08BFD1B913E6C0038422A /* test.html */,
 				DEF08C071B91797E0038422A /* preview.png */,
 				DEF08BFF1B9146190038422A /* ben.png */,
@@ -152,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE9BE27A1B917B9000E6312E /* README.md in Sources */,
 				1A624E590DCBC7F6006898C8 /* main.m in Sources */,
 				1AAD6A090DD0DC52003985DA /* MenuHandler.m in Sources */,
 			);
